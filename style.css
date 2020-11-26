@@ -200,3 +200,22 @@ h2{
    cursor:pointer;
  }
 
+ img2 
+ {
+ opacity:0.7;
+ filter:alpha(opacity=10); /* For IE8 and earlier */
+ }
+
+ 
+ img3 
+ {
+ opacity:0.0;
+ filter:alpha(opacity=10); /* For IE8 and earlier */
+ }
+
+ h3{
+  font-size: 20px;
+ font-family: unset;
+ text-align: left;
+ color: indianred;
+ text-shadow: -2px -2px 0px #fff, 2px -2px 0px #fff, -2px 2px 0px #fff, 2px 2px 0px #fff;
